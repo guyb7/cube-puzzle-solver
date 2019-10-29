@@ -5,6 +5,6 @@
   "author": "Guy Brukhis <guy.br7@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   }
 }
